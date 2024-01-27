@@ -1,0 +1,13 @@
+mywatch_rtos\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+mywatch_rtos\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+mywatch_rtos\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mywatch_rtos\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+mywatch_rtos\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+mywatch_rtos\heap_4.o: ../Inc/FreeRTOSConfig.h
+mywatch_rtos\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mywatch_rtos\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mywatch_rtos\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mywatch_rtos\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+mywatch_rtos\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mywatch_rtos\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mywatch_rtos\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
